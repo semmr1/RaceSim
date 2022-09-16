@@ -31,7 +31,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\Model\\Model.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

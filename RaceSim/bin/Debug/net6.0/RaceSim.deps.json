@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "RaceSim/1.0.0": {
+        "dependencies": {
+          "Controller": "1.0.0",
+          "Model": "1.0.0"
+        },
         "runtime": {
           "RaceSim.dll": {}
+        }
+      },
+      "Controller/1.0.0": {
+        "dependencies": {
+          "Model": "1.0.0"
+        },
+        "runtime": {
+          "Controller.dll": {}
+        }
+      },
+      "Model/1.0.0": {
+        "runtime": {
+          "Model.dll": {}
         }
       }
     }
   },
   "libraries": {
     "RaceSim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Controller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

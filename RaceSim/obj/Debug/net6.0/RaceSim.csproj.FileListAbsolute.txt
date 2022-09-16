@@ -13,3 +13,11 @@ C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\o
 C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\obj\Debug\net6.0\RaceSim.pdb
 C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\obj\Debug\net6.0\RaceSim.genruntimeconfig.cache
 C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\obj\Debug\net6.0\ref\RaceSim.dll
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\bin\Debug\net6.0\Controller.deps.json
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\bin\Debug\net6.0\Controller.runtimeconfig.json
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\bin\Debug\net6.0\Controller.exe
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\bin\Debug\net6.0\Controller.dll
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\bin\Debug\net6.0\Model.dll
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\bin\Debug\net6.0\Controller.pdb
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\bin\Debug\net6.0\Model.pdb
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\RaceSim\obj\Debug\net6.0\RaceSim.csproj.CopyComplete
