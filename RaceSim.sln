@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RaceSim", "RaceSim\RaceSim.csproj", "{9E32F7E0-6CC7-4FB4-987E-8113ABFD66A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "RaceSim\ConsoleApp.csproj", "{9E32F7E0-6CC7-4FB4-987E-8113ABFD66A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{6B0593E8-EBD2-4835-8287-B55E9CC6325D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{6B0593E8-EBD2-4835-8287-B55E9CC6325D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{B4F1283B-4CA0-49ED-AFE5-BA4C69D995EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Controller", "Controller\Controller.csproj", "{B4F1283B-4CA0-49ED-AFE5-BA4C69D995EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerTest", "ControllerTest\ControllerTest.csproj", "{3B669B93-5E16-4345-9451-555FADACAB64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControllerTest", "ControllerTest\ControllerTest.csproj", "{3B669B93-5E16-4345-9451-555FADACAB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTest", "ConsoleAppTest\ConsoleAppTest.csproj", "{E317D1A1-198E-4DE2-8349-13FE9FFF2185}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3B669B93-5E16-4345-9451-555FADACAB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B669B93-5E16-4345-9451-555FADACAB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B669B93-5E16-4345-9451-555FADACAB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E317D1A1-198E-4DE2-8349-13FE9FFF2185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E317D1A1-198E-4DE2-8349-13FE9FFF2185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E317D1A1-198E-4DE2-8349-13FE9FFF2185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E317D1A1-198E-4DE2-8349-13FE9FFF2185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

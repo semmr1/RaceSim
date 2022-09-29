@@ -1,19 +1,34 @@
 ﻿using Controller;
 using Model;
+using RaceSim;
 
-Competition F1Race = new();
-
-Data.Initialize(F1Race);
-Data.NextRace();
-
-Console.WriteLine($"Racing on Track: {Data.CurrentRace.Track.Name}");
-//Console.WriteLine($"Section count: {Data.CurrentRace.Track.Sections.Count}");
-//foreach (IParticipant participant in F1Race.Participants)
-//{
-//    Console.WriteLine($"* {participant.Name}: Points={participant.Points}/200, Team {participant.TeamColor} (Car: Quality={participant.Equipment.Quality}/100; Performance={participant.Equipment.Performance}/100; {participant.Equipment.Speed}km/h)");
-//}
-
-for (; ; )
 {
-    Thread.Sleep(100);
+    Competition F1Competition = new();
+    Data.Initialize(F1Competition);
+
+    Data.NextRace();
+
+
+    ConsoleVisualization.DrawTrack(Data.CurrentRace.Track);
+
+    var next = "";
+    Console.SetCursorPosition(0,25);
+    try
+    {
+        next = Console.ReadLine();
+        if (next == "next") { Data.NextRace(); }
+        Console.Clear();
+        ConsoleVisualization.DrawTrack(Data.CurrentRace.Track);
+    }
+    catch (Exception e)
+    {
+        Console.WriteLine(e);
+        throw;
+    }
+    for (; ; )
+    {
+        Thread.Sleep(100);
+    }
 }
+
+

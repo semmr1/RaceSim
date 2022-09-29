@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\Model\\Model.csproj": {}
+    "C:\\Users\\Semrg\\Documents\\Study\\ICT\\Jaar 2\\S1\\P1\\C#\\RaceSim\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\Model\\Model.csproj": {
+    "C:\\Users\\Semrg\\Documents\\Study\\ICT\\Jaar 2\\S1\\P1\\C#\\RaceSim\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\Semrg\\Documents\\Study\\ICT\\Jaar 2\\S1\\P1\\C#\\RaceSim\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\Semrg\\Documents\\Study\\ICT\\Jaar 2\\S1\\P1\\C#\\RaceSim\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Semrg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\Model\\obj\\",
+        "outputPath": "C:\\Users\\Semrg\\Documents\\Study\\ICT\\Jaar 2\\S1\\P1\\C#\\RaceSim\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

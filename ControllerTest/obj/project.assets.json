@@ -4008,11 +4008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\ControllerTest\\ControllerTest.csproj",
+      "projectUniqueName": "C:\\Users\\Semrg\\Documents\\Study\\ICT\\Jaar 2\\S1\\P1\\C#\\RaceSim\\ControllerTest\\ControllerTest.csproj",
       "projectName": "ControllerTest",
-      "projectPath": "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\ControllerTest\\ControllerTest.csproj",
+      "projectPath": "C:\\Users\\Semrg\\Documents\\Study\\ICT\\Jaar 2\\S1\\P1\\C#\\RaceSim\\ControllerTest\\ControllerTest.csproj",
       "packagesPath": "C:\\Users\\Semrg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\ControllerTest\\obj\\",
+      "outputPath": "C:\\Users\\Semrg\\Documents\\Study\\ICT\\Jaar 2\\S1\\P1\\C#\\RaceSim\\ControllerTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4033,8 +4033,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\Controller\\Controller.csproj": {
-              "projectPath": "C:\\Users\\Semrg\\OneDrive - Windesheim Office365\\!P1\\C#\\Projects\\RaceSim\\Controller\\Controller.csproj"
+            "C:\\Users\\Semrg\\Documents\\Study\\ICT\\Jaar 2\\S1\\P1\\C#\\RaceSim\\Controller\\Controller.csproj": {
+              "projectPath": "C:\\Users\\Semrg\\Documents\\Study\\ICT\\Jaar 2\\S1\\P1\\C#\\RaceSim\\Controller\\Controller.csproj"
             }
           }
         }
