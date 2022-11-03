@@ -1,0 +1,24 @@
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\bin\Debug\net6.0\Model.dll
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\obj\Debug\net6.0\Model.dll
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\Semrg\OneDrive - Windesheim Office365\!P1\C#\Projects\RaceSim\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\bin\Debug\net6.0\Model.dll
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\obj\Debug\net6.0\Model.dll
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\obj\Debug\net6.0\refint\Model.dll
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\Semrg\Documents\Study\ICT\Jaar 2\S1\P1\C#\RaceSim\Model\obj\Debug\net6.0\ref\Model.dll
