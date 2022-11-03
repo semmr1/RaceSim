@@ -15,6 +15,7 @@ namespace Model
 
         public IEquipment Equipment { get; set; }
         public TeamColors TeamColor { get; set; }
+
     }
     public enum TeamColors
     {
